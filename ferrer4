@@ -984,7 +984,7 @@ http://208.86.20.109:8081/live/2102.stream/playlist.m3u8
 http://208.86.20.109:8081/live/2108.stream/playlist.m3u8
 #EXTINF:-1,Canales USA y Dominicana 2123
 http://208.86.20.109:8081/live/2123.stream/playlist.m3u8
-#EXTINF:-1,Canales USA y Dominicana 2400
+#EXTINF:-1,usaydom UNIVISION 2400
 http://208.86.20.109:8081/live/2400.stream/playlist.m3u8
 #EXTINF:-1,Canales USA y Dominicana 201
 http://208.86.20.109:8081/live/2401.stream/playlist.m3u8
@@ -992,33 +992,31 @@ http://208.86.20.109:8081/live/2401.stream/playlist.m3u8
 http://208.86.20.109:8081/live/2402.stream/playlist.m3u8
 #EXTINF:-1,Canales USA y Dominicana 2403
 http://208.86.20.109:8081/live/2403.stream/playlist.m3u8
-#EXTINF:-1,Canales USA y Dominicana 2404
-http://208.86.20.109:8081/live/2404.stream/playlist.m3u8
 #EXTINF:-1,Canales USA y Dominicana 2405
 http://208.86.20.109:8081/live/2405.stream/playlist.m3u8
-#EXTINF:-1,Canales USA y Dominicana 2406
+#EXTINF:-1,USA 2406
 http://208.86.20.109:8081/live/2406.stream/playlist.m3u8
-#EXTINF:-1,Canales USA y Dominicana 2407
+#EXTINF:-1,USA 2407
 http://208.86.20.109:8081/live/2407.stream/playlist.m3u8
-#EXTINF:-1,Canales USA y Dominicana 2408
+#EXTINF:-1,USA 2408
 http://208.86.20.109:8081/live/2408.stream/playlist.m3u8
-#EXTINF:-1,Canales USA y Dominicana 2410
+#EXTINF:-1,USA 2410 NIÑO
 http://208.86.20.109:8081/live/2410.stream/playlist.m3u8
-#EXTINF:-1,Canales USA y Dominicana 2500
+#EXTINF:-1,USA 2500 ANTENA LATINA
 http://208.86.20.109:8081/live/2500.stream/playlist.m3u8
-#EXTINF:-1,Canales USA y Dominicana 2501
+#EXTINF:-1,USA 2501 POLTICA
 http://208.86.20.109:8081/live/2501.stream/playlist.m3u8
-#EXTINF:-1,Canales USA y Dominicana 2502
+#EXTINF:-1, USA y Dominicana 2502 CANAL4
 http://208.86.20.109:8081/live/2502.stream/playlist.m3u8
-#EXTINF:-1,Canales USA y Dominicana 2503
+#EXTINF:-1,USA y Dominicana 2503
 http://208.86.20.109:8081/live/2503.stream/playlist.m3u8
-#EXTINF:-1,Canales USA y Dominicana 2504
+#EXTINF:-1,USA 2504 NATIONAL GEOGRAFIC
 http://208.86.20.109:8081/live/2504.stream/playlist.m3u8
-#EXTINF:-1,Canales USA y Dominicana 2505
+#EXTINF:-1,USA 2505 NEXXON
 http://208.86.20.109:8081/live/2505.stream/playlist.m3u8
-#EXTINF:-1,Canales USA y Dominicana 2506
+#EXTINF:-1,USA y Dominicana 2506
 http://208.86.20.109:8081/live/2506.stream/playlist.m3u8
-#EXTINF:-1,Canales USA y Dominicana 2507
+#EXTINF:-1,USA CDN SPORT 2507
 http://208.86.20.109:8081/live/2507.stream/playlist.m3u8
 #EXTINF:-1,Canales USA y Dominicana 2511
 http://208.86.20.109:8081/live/2511.stream/playlist.m3u8
