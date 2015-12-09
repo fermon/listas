@@ -64,6 +64,51 @@ http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", ANIMAL PLANET
 http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:-1,Canales USA y Dominicana 2108
+http://208.86.20.109:8081/live/2108.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2123
+http://208.86.20.109:8081/live/2123.stream/playlist.m3u8
+#EXTINF:-1,usaydom UNIVISION 2400
+http://208.86.20.109:8081/live/2400.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2401
+http://208.86.20.109:8081/live/2401.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2402
+http://208.86.20.109:8081/live/2402.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2403
+http://208.86.20.109:8081/live/2403.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2405
+http://208.86.20.109:8081/live/2405.stream/playlist.m3u8
+#EXTINF:-1,USA 2406
+http://208.86.20.109:8081/live/2406.stream/playlist.m3u8
+#EXTINF:-1,USA 2407
+http://208.86.20.109:8081/live/2407.stream/playlist.m3u8
+#EXTINF:-1,USA 2408
+http://208.86.20.109:8081/live/2408.stream/playlist.m3u8
+#EXTINF:-1,USA 2410 NIÑO
+http://208.86.20.109:8081/live/2410.stream/playlist.m3u8
+#EXTINF:-1,USA 2500 ANTENA LATINA
+http://208.86.20.109:8081/live/2500.stream/playlist.m3u8
+#EXTINF:-1,USA 2501 POLTICA
+http://208.86.20.109:8081/live/2501.stream/playlist.m3u8
+#EXTINF:-1, USA y Dominicana 2502 CANAL4
+http://208.86.20.109:8081/live/2502.stream/playlist.m3u8
+#EXTINF:-1,USA y Dominicana 2503
+http://208.86.20.109:8081/live/2503.stream/playlist.m3u8
+#EXTINF:-1,USA 2504 NATIONAL GEOGRAFIC
+http://208.86.20.109:8081/live/2504.stream/playlist.m3u8
+#EXTINF:-1,USA 2505 NEXXON
+http://208.86.20.109:8081/live/2505.stream/playlist.m3u8
+#EXTINF:-1,USA y Dominicana 2506
+http://208.86.20.109:8081/live/2506.stream/playlist.m3u8
+#EXTINF:-1,USA CDN SPORT 2507
+http://208.86.20.109:8081/live/2507.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2511
+http://208.86.20.109:8081/live/2511.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2514
+http://208.86.20.109:8081/live/2514.stream/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS 3",Vicio Dual
 https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!129&authkey=!AFB5cXazuuQDIes&ithint=file%2cmkv
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS 3",Howl
