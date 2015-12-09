@@ -80,6 +80,10 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=o
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]AmericaTV peru 
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
+#EXTINF:0, BT SPORT 1 HD
+http://02e4.vp9.tv/chn/btsu1/v.m3u8
+#EXTINF:0, BT SPORT 2 HD
+http://02e4.vp9.tv/chn/btsu2/v.m3u8
 
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]EUROSPORT
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
