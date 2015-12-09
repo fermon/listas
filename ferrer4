@@ -980,13 +980,16 @@ http://208.86.20.109:8081/live/2100.stream/playlist.m3u8
 http://208.86.20.109:8081/live/2101.stream/playlist.m3u8
 #EXTINF:-1,Canales USA y Dominicana 2102
 http://208.86.20.109:8081/live/2102.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2106
+http://208.86.20.109:8081/live/2106.stream/playlist.m3u8
+
 #EXTINF:-1,Canales USA y Dominicana 2108
 http://208.86.20.109:8081/live/2108.stream/playlist.m3u8
 #EXTINF:-1,Canales USA y Dominicana 2123
 http://208.86.20.109:8081/live/2123.stream/playlist.m3u8
 #EXTINF:-1,usaydom UNIVISION 2400
 http://208.86.20.109:8081/live/2400.stream/playlist.m3u8
-#EXTINF:-1,Canales USA y Dominicana 201
+#EXTINF:-1,Canales USA y Dominicana 2401
 http://208.86.20.109:8081/live/2401.stream/playlist.m3u8
 #EXTINF:-1,Canales USA y Dominicana 2402
 http://208.86.20.109:8081/live/2402.stream/playlist.m3u8
