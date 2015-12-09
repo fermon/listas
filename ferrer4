@@ -19,54 +19,15 @@ http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1,[COLOR yellow]LUPE [/COLOR]azteca 7a
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR],AZTECA 7.
-http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Azteca 7 57
-http://200.76.77.237/LIVE/H01/CANAL57/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]azteca 13 
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1, [COLOR yellow]LUPE [/COLOR],Tlenovelas
-http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]LUPE [/COLOR]CANAL 5 HD.
-http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]LUPE [/COLOR],DE PELICULA HD.
-http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]NICK.
-http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]NICK HD.
-http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]NICK.
-http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]CARTOON NETWORK.
-http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]DISNEY XD.
-http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]BOOMERANG.
-http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]TIIN.
-http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]TOONCAST.
-http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]CBEEBIES.
-http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]NICK TOONS.
-http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]NICK.
-http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR],DISCOVERY KIDS.
-http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]DISNEY JR.
-http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]NICK JR.
-http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]DISNEY CHANNEL.
-http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]La sexta Castalba
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,[COLOR red]LUPE [/COLOR]Universa Estudio borrar
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/playlist.m3u8
+
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]FOX SPORTS.
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]FOX SPORTS 2.
@@ -233,7 +194,7 @@ http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1,TBS.
 http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1,A&amp;E.
+#EXTINF:-1,A&E.
 http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1,TRUE TV HD.
 http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -383,7 +344,6 @@ http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1,ESPN3.
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-
 #EXTINF:-1,FOX
 http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,FOX1
@@ -626,12 +586,10 @@ http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?-1332/1499-20150816T153535.
 
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Canal De Las Estrellas  Mexico
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
-
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Canal De Las Estrellas 640
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Canal De Las Estrellas HD 1048
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Azteca 7 Mexico
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Azteca 7 (Mexico Deportes)
@@ -849,6 +807,14 @@ http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
 #EXTINF:-1,CONDAVISION
 http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8
 
+#EXTINF:-1,canal 3 guate
+http://dwctkjy03mpy3.cloudfront.net/gt/smil:canal_3.smil/playlist.m3u
+#EXTINF:-1,canal 7 guate
+http://dwctkjy03mpy3.cloudfront.net/gt/smil:canal_7.smil/playlist.m3u8
+#EXTINF:-1,canal 23 guate
+http://dwctkjy03mpy3.cloudfront.net/gt/smil:canal_23.smil/playlist.m3u8
+
+
 #EXTINF:-1,RPC Panamá
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 
@@ -979,78 +945,6 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=o
 #EXTINF:-1,[COLOR red]ESPAÑA  [/COLOR]MEGA  Iindex 2
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_2_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,Telecinco
-rtmp://31.220.0.139/pull/telecincoin?keys=PVIVrGKFxbvBF7lXVXsR7w&keyt=1443471107 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
-#EXTINF:-1,TELECINCO
-http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
-#EXTINF:-1,C+
-rtmp://31.220.0.60/pull playpath=canaplu1?keys=T-4YPN4_pfFeyQiT9M7E9A&keyt=1445309152 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
-#EXTINF:-1,C+ XTRA
-rtmp://31.220.0.82/pull playpath=xxtras?keys=rXuO2-EECsp3tDIcoep2Hg&keyt=1446595126 swfUrl=http://files.leton.tv/jwplayer.flash.swf
-#EXTINF:-1,C+ Estrenos
-rtmp://31.220.2.57/pull/estrenos258?keys=lw1SchAIVqWfWLYRDCGFeg&keyt=1443749048 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,C+ DCine
-rtmp://31.220.0.194/pull/159dcine?keys=VSyEFKByNYpANXptg0bn0g&keyt=1443270924 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,C+ Accion
-rtmp://31.220.0.204/pull/accpls?keys=OwGk5mEbLJujLJKZ3L2MFA&keyt=1443277151 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,C+ Comedia
-rtmp://31.220.0.82/pull/comed236?keys=J114g05QrtZkGXgzhu-ivQ&keyt=1443277086 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,C+ Series Xtra
-rtmp://31.220.0.72/pull/seriesxtra76?keys=wpz2tJqtWKHWfQEQfbJRlA&keyt=1443273424 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,DCine Espanol
-rtmp://31.220.0.196/pull/dcinees?keys=yYInylptb2_w3ouIcIa-9g&keyt=1443272274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Sundance Channel
-rtmp://31.220.2.54/pull/sundance14?keys=7U98UyIDZdzNCQweSaxpXA&keyt=1443272364 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Fox
-rtmp://31.220.2.56/pull/fox623?keys=U3YU2tmRp5UhkSvfZSF9Hg&keyt=1443273510 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Fox life
-rtmp://31.220.40.62/pull/foxlife20?keys=rZNiLcEkz_-1I0HJZYJMmg&keyt=1443273561 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0, AXN White
-rtmp://31.220.0.60/pull/axnw6?keys=cbXbK3jEJP_74qx2gGg3vw&keyt=1443273711 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0, SYFY
-rtmp://149.255.39.10/pull/syfy258?keys=t_Hjn7PrSaEcPjO7dxidCQ&keyt=1443273841 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0,Cosmopolitan
-rtmp://31.220.2.52/pull/cosmo78?keys=niyqfA0AExZVgLjSJimarQ&keyt=1443273904 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0,Calle 13
-rtmp://31.220.40.61/pull/calle1396?keys=cgvGsfBRjWIWG4Iktvh8IA&keyt=1443276951 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Paramount Comedy
-rtmp://31.220.0.12/pull/comedycentral3?keys=2P0dnLcUj7m1duZheJEdsA&keyt=1443273949 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,MTV ESPANA
-rtmp://31.220.40.41/pull/mtv125?keys=xO5xPN5EXp6PIG7HiobYHA&keyt=1443274118 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0,Discovery Channel (f1)
-rtmp://31.220.0.72/pull/discovery1?keys=UpzcvgzQkK4hKxE2bG4hpg&keyt=1443276407 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/ 
-#EXTINF:-1,Discovery Channel  (f1)
-rtmp://31.220.40.61/pull playpath=discovery1?keys=3YWUhshwrnXGVg3VS54mXQ&keyt=1444728610 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/ 
-#EXTINF:-1,Nat Geographic
-rtmp://31.220.2.56/pull/natgeo36?keys=hycHX2TkFjXvIkPin-OBfw&keyt=1443276529 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Nat Geo Wild
-rtmp://31.220.0.139/pull/natgeowilde?keys=q0_Lrhaw2emq11zj0BEl9A&keyt=1443276608 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/ 
-#EXTINF:-1,Historia
-rtmp://31.220.40.59/pull/historia45?keys=R5pF6_3vyWNC4NjQnEgCaQ&keyt=1443276633 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Viajar
-rtmp://31.220.0.139/pull/viajando?keys=SgJ1fhTw4OCiIakrc2P4ZQ&keyt=1443276660 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,IBERALIA HD
-rtmp://31.220.2.53/pull/iberalias?keys=hv7wHG2MMNq2OII1R2UKhw&keyt=1443276773 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,CAZA Y PESCA
-rtmp://31.220.40.62/pull/iberalias?keys=0_JhiusUyr5k9omnOAPRog&keyt=1443470275 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Discovery Max
-rtmp://31.220.2.54/pull/discomax7?keys=erDZHTkdpzYnFV9lp1KFxA&keyt=1443470397 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
-#EXTINF:-1,AyE
-rtmp://31.220.2.52/pull/aanden?keys=uV6rXMEYI50WiTP7-eq0oQ&keyt=1443470586 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Crimen y Investigacion
-rtmp://31.220.2.56/pull/ci5?keys=iqdmtsVCDkx2ktP7IqpKCA&keyt=1443470653 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Sol Musica
-rtmp://31.220.0.134/pull/solmusica7?keys=Myv6FEw6MpuMX9VNf7hFXg&keyt=1443472240 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1pageUrl=http://leton.tv/
-#EXTINF:-0,Disney Junior
-rtmp://93.174.93.68/pull/disneyju78?keys=-hIlPXhYVNsxSAoAuksl7g&keyt=1443276089 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0,Nickelodeon
-rtmp://31.220.0.12/pull/nick78?keys=01pCIusovf5l00beGT6-Jw&keyt=1443276167 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0,Canal Panda
-rtmp://31.220.40.61/pull/panda51?keys=dfE8J-bE1Qyyr5tAHFJBmg&keyt=1443276254 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0,C+ LIGA mmmm
-rtmp://31.220.40.61/pull/ligaplus?keys=QnYfTXZ96_vNEHg2BAHaZA&keyt=1443272623 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
- 
- 
 
 #EXTINF:-1,[COLOR yellow]Fox Sports Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
@@ -1079,3 +973,54 @@ http://iptvcanales.com/xw/cable.php?canal=08&player=playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Canal De Las Estrellas[/COLOR]
 #EXTINF:-1,[COLOR yellow]Teletica 7[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=59&player=playlist.m3u8
+
+#EXTINF:-1,Canales USA y Dominicana 2100
+http://208.86.20.109:8081/live/2100.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2101
+http://208.86.20.109:8081/live/2101.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2102
+http://208.86.20.109:8081/live/2102.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2108
+http://208.86.20.109:8081/live/2108.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2123
+http://208.86.20.109:8081/live/2123.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2400
+http://208.86.20.109:8081/live/2400.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 201
+http://208.86.20.109:8081/live/2401.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2402
+http://208.86.20.109:8081/live/2402.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2403
+http://208.86.20.109:8081/live/2403.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2404
+http://208.86.20.109:8081/live/2404.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2405
+http://208.86.20.109:8081/live/2405.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2406
+http://208.86.20.109:8081/live/2406.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2407
+http://208.86.20.109:8081/live/2407.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2408
+http://208.86.20.109:8081/live/2408.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2410
+http://208.86.20.109:8081/live/2410.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2500
+http://208.86.20.109:8081/live/2500.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2501
+http://208.86.20.109:8081/live/2501.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2502
+http://208.86.20.109:8081/live/2502.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2503
+http://208.86.20.109:8081/live/2503.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2504
+http://208.86.20.109:8081/live/2504.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2505
+http://208.86.20.109:8081/live/2505.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2506
+http://208.86.20.109:8081/live/2506.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2507
+http://208.86.20.109:8081/live/2507.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2511
+http://208.86.20.109:8081/live/2511.stream/playlist.m3u8
+#EXTINF:-1,Canales USA y Dominicana 2514
+http://208.86.20.109:8081/live/2514.stream/playlist.m3u8
