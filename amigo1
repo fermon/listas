@@ -64,6 +64,14 @@ http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", ANIMAL PLANET
 http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:0,CNBC
+http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+#EXTINF :-1, group-title="NUEVOS",[COLOR red]New [/COLOR]DUCHEWELL
+http://dwschiene3-i.akamaihd.net/hls/live/221760/dwschiene3/x6x/playlist6x.m3u8?
+#EXTINF:0, BT SPORT 1 HD
+http://02e4.vp9.tv/chn/btsu1/v.m3u8
+#EXTINF:0, BT SPORT 2 HD
+http://02e4.vp9.tv/chn/btsu2/v.m3u8
 
 #EXTINF:-1,Canales USA y Dominicana 2108
 http://208.86.20.109:8081/live/2108.stream/playlist.m3u8
