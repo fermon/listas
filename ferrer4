@@ -117,21 +117,6 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=o
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]Antena 3 index2
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-0,  [COLOR yellow]Deportes [/COLOR]Bein ñ 720 Espana 
-rtmp://31.220.40.61/pull/tvbein12?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,LA 1 ( LA LIGA)
-rtmp://31.220.0.196/pull/laprimera6?keys=uUs_REKMuSneTrx_IQFpIA&keyt=1443470984 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
-#EXTINF:-0,C+ LIGA
-rtmp://31.220.40.61/pull/ligaplus?keys=QnYfTXZ96_vNEHg2BAHaZA&keyt=1443272623 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0,C+ LIGA 2
-rtmp://31.220.0.134/pull/liga258?keys=fcYcc1wKKoFf-1GwxzkD9w&keyt=1443747981 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,C+ FUTBOL
-rtmp://31.220.2.53/pull playpath=futbolsala?keys=5U6rLsKDdkGo1qBYF0ZZmw&keyt=1444987977 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
-#EXTINF:-1,C+ DEPORTE
-rtmp://31.220.40.40/pull/deportes16?keys=9DemzM-fHBveK3_PFeYbuw&keyt=1443272732 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0,C+ DEPORTES 2
-rtmp://31.220.40.61/pull/deportes26?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]AmericaTV peru 
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
 
@@ -166,10 +151,6 @@ http://dwschiene3-i.akamaihd.net/hls/live/221760/dwschiene3/x6x/playlist6x.m3u8?
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
 #EXTINF:-1,[COLOR red]New [/COLOR]CDN-SportsMax
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1,[COLOR red]New [/COLOR]Tele Sur
-http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
-#EXTINF:-1,[COLOR red]New [/COLOR]Telemundo (Opcion 3)
-http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR red]New [/COLOR]CanaldelasEstrellas
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1,[COLOR red]New [/COLOR]CanadelasestrellasHD
