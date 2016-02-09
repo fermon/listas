@@ -117,6 +117,8 @@ http://streaming.radionomy.com/100-purasalsa
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", TV MIAMI LIFE ESPAÑA
 http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRERx1 TP", Canal de las Estrellas
+http://104.236.124.24:1583/estrellas/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRERx1 TP", Canal de las Estrellas -1 Hora
 http://104.131.39.88:1583/estrellas-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRERx1 TP", Canal de las Estrellas -2 Horas
