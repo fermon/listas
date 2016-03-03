@@ -13,12 +13,17 @@
 <referer>referer=http://azulyblanco.co/streamab?id=1</referer>
 </item>
 
+<item>
+<title>zona sport12</title>
+<sportsdevil>http://zonasports.be/stream.php?id=12</sportsdevil>
+<referer>referer=http://zonasports.be/stream.php?id=12</referer>
+</item>
 
 
 <item>
-<title>azul y blanco 1</title>
-<sportsdevil>http://azulyblanco.co/streamab?id=1</sportsdevil>
-<referer>referer=http://azulyblanco.co/streamab?id=1</referer>
+<title>zona sport14</title>
+<sportsdevil>http://zonasports.be/stream.php?id=14</sportsdevil>
+<referer>referer=http://zonasports.be/stream.php?id=12</referer>
 </item>
 
 
